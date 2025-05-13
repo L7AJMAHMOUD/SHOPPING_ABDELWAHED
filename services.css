@@ -1,0 +1,172 @@
+.b1
+{
+	background-image: url(/img//dv.jpeg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.h1
+{
+    display: inline-block;  
+    text-align: center;
+    font-family: "Tagesschrift";
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 5px;
+ 	background-image: linear-gradient(to right, chocolate, green, burlywood, chocolate);
+    padding: 10px 20px;
+    border-color: black;
+}
+
+.d1
+{
+    height: auto;
+    width: 60cm;
+    position: absolute;
+    top: 12%;
+    left: 58%;
+    transform: translate(-50%, -50%);
+}
+
+.alink
+{
+    font-family: "Tagesschrift";
+    font-size: 40px;
+    text-decoration: none;
+    margin-right: 80px;
+    margin-left: 240px;
+    border-style: outset;
+    border-radius: 40px;
+    padding: 10px;
+    border-color: black;
+    border-width: 5px;
+    background-image: linear-gradient(to right, chocolate, green, burlywood, chocolate);
+    color: azure;
+}
+
+.hd1
+{
+    display: inline-block;  
+    text-align: center;
+    font-family: "Tagesschrift";
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 5px;
+    background-image: linear-gradient(to right, chocolate, green, burlywood, chocolate);
+    padding: 10px 20px;
+    border-color: black;
+}
+
+.div0
+{
+    width: 11cm;
+    position: relative;
+    margin-top: 40px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: azure;
+}
+
+.dv1
+{
+	border: solid;
+	height: 10cm;
+	width: 17cm;
+	position: relative;
+	top: 3cm;
+	left: 5cm;
+	border-color: green;
+	background-image: url(/img/fastfood.jpg);
+	border-radius: 40px;
+	background-size: cover;
+
+}
+.dv2
+{
+	border: solid;
+	height: 10cm;
+	width: 17cm;
+	position: relative;
+	top: 10cm;
+	left: 5cm;
+	border-color: green;
+
+	background-image: url(/img/groc.jpg);
+	border-radius: 40px;
+	margin-bottom: 2cm;
+	background-size: cover;
+
+}
+.dv3
+{
+	border: solid;
+	height: 10cm;
+	width: 17cm;
+	position: relative;
+	top: 0cm;
+	left: 40cm;
+	border-color: green;
+	background-image: url(/img/medcine.jpg);
+	border-radius: 40px;
+	background-size: cover;
+
+}
+
+.dv4
+{
+	border: solid;
+	height: 10cm;
+	width: 17cm;
+	position: relative;
+	top: 0cm;
+	left: 40cm;
+	border-color: green;
+
+	background-image: url(/img/commerece.jpg);
+	border-radius: 40px;
+	background-size: cover;
+
+}
+
+.extradiv
+{
+	border: solid;
+	height: 15cm;
+	width: 15cm;
+	position: relative;
+	left: 27cm;
+	top: 5cm;
+	background: linear-gradient(to right, black , grey , black);
+	border-style: solid;
+	border-color: green;
+	border-radius: 40px;
+}
+p
+{
+	color: beige;
+	padding: 10px;
+	font-family: "Tagesschrift";
+	font-size: xx-large;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.sp1
+{
+	color: cadetblue;
+}
+.sp2
+{
+	color: chocolate;
+}
+.sp3
+{
+	color:goldenrod ;
+}
+
+.sp4
+{
+	color: lightsalmon;
+}
