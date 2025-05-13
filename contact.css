@@ -1,0 +1,62 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    background: #f4f4f4;
+}
+
+header {
+    background-color: #34495e;
+    color: white;
+    padding: 1em;
+}
+
+nav a {
+    color: white;
+    margin: 0 1em;
+    text-decoration: none;
+}
+
+main {
+    padding: 2em;
+}
+
+.contact-form {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 2em;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 1em;
+}
+
+input, textarea {
+    padding: 0.75em;
+    margin-top: 0.5em;
+}
+
+button {
+    margin-top: 1.5em;
+    background-color: #2980b9;
+    color: white;
+    border: none;
+    padding: 0.75em;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2471a3;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background: #ccc;
+}

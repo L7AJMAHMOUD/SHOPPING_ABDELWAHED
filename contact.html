@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="/contact.css">
+</head>
+<body>
+    <header>
+        <h1>Contact Us</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="services.html">Services</a>
+            <a href="orders.html">Your Orders</a>
+        </nav>
+    </header>
+    <main>
+        <section class="contact-form">
+            <h2>We’d love to hear from you</h2>
+            <form>
+                <label for="name">Your Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" placeholder="+212 6 12 34 56 78" pattern="^\+212\s?6\d{1}\s?\d{2}\s?\d{2}\s?\d{2}$" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <button type="submit">Send Message</button>
+            </form>
+
+            <div class="contact-details">
+                <h3>Other Ways to Reach Us</h3>
+                <p><strong>Phone:</strong> +212 6 12 34 56 78</p>
+                <p><strong>Address:</strong>Khouribga, Maroc</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+    </footer>
+</body>
+</html>
